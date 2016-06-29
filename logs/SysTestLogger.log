@@ -1,0 +1,6 @@
+[2016-03-30 13:06:36,166] [INFO    ] [21673   ] Load balancing profile [EVEN] will be updated to the ini file [/Users/arif/Documents/Neel_doc_send/s3cmdSystemTestUtil/config/input_spec.ini] file
+[2016-03-30 13:06:46,178] [INFO    ] [21673   ] SystemTestAutoUtils initiated on client : [c02q11pzg8wn.hgst.com]
+[2016-03-30 13:06:46,179] [INFO    ] [21673   ] -------------------------------------------------
+[2016-03-30 13:06:46,179] [INFO    ] [21673   ] Current running client system is [c02q11pzg8wn.hgst.com]
+[2016-03-30 13:06:51,187] [INFO    ] [21673   ] Updating the config file with user and access keys
+[2016-03-30 13:06:51,195] [INFO    ] [21673   ] Creating the s3cmd config file [s3cfg-whitney-user1-c02q11pzg8wn.hgst.com] for the client
