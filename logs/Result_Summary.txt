@@ -1,7 +1,7 @@
 Hi,
  Please find the SystemTestAutoUtils Result Summary	     	
 --------------------------------------------------------	     	
-SystemTestAutoUtils initiated from client	=     	[c02q11pzg8wn.hgst.com]
+SystemTestAutoUtils initiated from client	=     	[c02q11pzg8wn.test.com]
 Scaler Nodes under test are 	=     	  ['192.168.34.2', '192.168.34.3', '192.168.34.4']
 Load Profile definition	=     	[EVEN]
 -----------	Test Results     	-----------
